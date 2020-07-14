@@ -5,7 +5,7 @@ title: Friday Podcast Club
 date: 2020-07-13
 ---
 
-## The Dubbyas
+## About
 
 ### What
 A group of people regularly meeting up to discuss podcasts.
