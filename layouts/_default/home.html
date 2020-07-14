@@ -1,7 +1,7 @@
 {{ define "main" }}
 <h1 class="title">{{ .Title }}</h1>
 <h2 class="subtitle">{{ .Params.Subtitle}}</h2>
-<h3> Next Meeting </h3>
+<h2> Next Meeting </h2>
 <ul class="posts">
   {{ range where (where .Site.RegularPages "Section" "schedule") ".File.Ext" "md" | first 1  }}
   <li class="post">
@@ -12,6 +12,6 @@
     </a>
   </li>
   {{ end }}
-{{ .Content }}
 </ul>
+{{ .Content }}
 {{ end }}
