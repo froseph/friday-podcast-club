@@ -170,10 +170,13 @@ footer {
     a {
       display: block;
       padding: 0.5em 0;
-      color: black;
+      color: $highlight;
       &:hover, &:focus, &:active {
         text-decoration: none;
         background: $grey;
+        span {
+          text-decoration: underline;
+        }
       }
     }
     date {
@@ -185,3 +188,10 @@ footer {
     }
   }
 }
+    date {
+      font-family: monospace, monospace; // https://github.com/necolas/normalize.css#extended-details-and-known-issues
+      font-size: 0.8rem;
+      vertical-align: middle;
+      padding-right: 2rem;
+      color: grey;
+    }

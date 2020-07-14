@@ -7,8 +7,7 @@
   <li class="post">
     <a href="{{ .Permalink }}">
       <date>{{ .Date.Format "Monday, January 2, 2006" }}</date>
-      <span {{ if .Draft }}style="background-color: yellowc:w
-        ;"{{ end }}>{{ .Title }}</span>
+      <span {{ if .Draft }}style="background-color: yellow;"{{ end }}>{{ .Title }}</span>
     </a>
   </li>
   {{ end }}
