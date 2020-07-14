@@ -1,13 +1,17 @@
 {{ define "main" }}
 <h1 class="title">{{ .Title }}</h1>
+<h2 class="subtitle">{{ .Params.Subtitle}}</h2>
+<h3> Next Meeting </h3>
 <ul class="posts">
-  {{ range where (where .Site.RegularPages "Section" "articles") ".File.Ext" "md" | first 20  }}
+  {{ range where (where .Site.RegularPages "Section" "schedule") ".File.Ext" "md" | first 1  }}
   <li class="post">
     <a href="{{ .Permalink }}">
-      <date>{{ .Date.Format "02.01.2006" }}</date>
-      <span {{ if .Draft }}style="background-color: yellow;"{{ end }}>{{ .Title }}</span>
+      <date>{{ .Date.Format "Monday, January 2, 2006" }}</date>
+      <span {{ if .Draft }}style="background-color: yellowc:w
+        ;"{{ end }}>{{ .Title }}</span>
     </a>
   </li>
   {{ end }}
+{{ .Content }}
 </ul>
 {{ end }}

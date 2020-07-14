@@ -1,3 +1,14 @@
-baseURL: http://example.org/
+# baseURL: https://fridaypodcastclub.com/
+# TODO convert to TOML?
+baseURL: /
 languageCode: en-us
-title: My New Hugo Site
+title: Friday Podcast Club
+enableEmoji: true
+# For html in markdown.
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+taxonomies:
+  tag: tags
+buildFuture: true
