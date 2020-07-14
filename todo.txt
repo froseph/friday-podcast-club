@@ -1,3 +1,6 @@
-Update/Change theme
-Generate list of tags
-migrate mp3?
+* Fix up parameters:
+** Add podcast title field
+** Add podcast series field
+* Add Podcast series page
+* Create page generator in elixir
+* migrate mp3?
