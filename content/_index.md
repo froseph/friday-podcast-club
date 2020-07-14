@@ -10,22 +10,20 @@ date: 2020-07-13
 ### What
 A group of people regularly meeting up to discuss podcasts.
 Our primary emphasis is on non-fiction and issues affecting our current lives.
-We share our thoughts, and feelings to enrich each other's perspectives of the content we are listening to.
 
 ### Why
-We desire to enrich our lives through a diversity of perspectives.
-Podcasts have a lower barrier to entry, allowing more people to participate.
+We desire to enrich our lives by sharing personal perspectives on the topics of our day.
+Podcasts were chosen due to their low barrier of entry compared to other medium such as books.
 
 ### Who
 Friday Podcast Club was started by Joseph Liu.
-The club open to anyone who can meet the online meetings.
+The club open to anyone who is willing to participate in our online meetings.
 
 ### When
-Every other Friday. 5:30 -7:30pm PST.
+Every other Friday at 5:30 &ndash; 7:30pm PST.
 
 ### Where
-Currently digitally via Zoom. 
-
+Currently digitally via Zoom. Meeting link sent in the newsletter.
 
 <!--
  created 2020-07-13 15:45:39.254686 -0700 PDT m=+0.074147564
