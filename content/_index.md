@@ -9,11 +9,10 @@ date: 2020-07-13
 
 ### What
 A group of people regularly meeting up to discuss podcasts.
-Our primary emphasis is on non-fiction and issues affecting our current lives.
+Our primary emphasis is on non-fiction and the issues affecting our current lives.
 
 ### Why
-We desire to enrich our lives by sharing personal perspectives on the topics of our day.
-Podcasts were chosen due to their low barrier of entry compared to other medium such as books.
+To enrich our lives by sharing personal perspectives on the podcasts we listen to.
 
 ### Who
 Friday Podcast Club was started by Joseph Liu.

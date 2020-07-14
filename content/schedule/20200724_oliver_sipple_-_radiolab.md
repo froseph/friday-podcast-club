@@ -10,7 +10,7 @@ tags:
   - privacy
 ---
 
-### Meeting Information
+## Meeting Information
 
 Podcast Episode
 :   Oliver Sipple - Radiolab
@@ -21,10 +21,7 @@ Date
 Time
 :   5:30pm - 7:30pm PST
 
-Meeting link
-:   https://us02web.zoom.us/j/81207547682?pwd=RC9lb1A1ZGJ4bUpJU3FMR0hJZW5CZz09
-
-### Podcast Sources:
+## Podcast Sources
 
 Web
 :   https://www.wnycstudios.org/podcasts/radiolab/articles/oliver-sipple

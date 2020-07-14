@@ -9,7 +9,7 @@ tags:
   - racism
 ---
 
-### Meeting Information
+## Meeting Information
 
 Podcast Episode
 :   Debatable - Radiolab
@@ -20,7 +20,7 @@ Date
 Time
 :   5:30pm - 7:30pm PST
 
-### Podcast Sources:
+## Podcast Sources
 
 Web
 :   https://www.wnycstudios.org/podcasts/radiolab/articles/debatable

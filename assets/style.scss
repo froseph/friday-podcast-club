@@ -1,5 +1,8 @@
 $highlight: rgb(250, 100, 50);
 $grey: rgba(200,200,200,0.2);
+$base-font: 'Merriweather', serif;
+$monospace-font: 'B612 Mono', monospace;
+// $monospace-font: monospace, monospace; // https://github.com/necolas/normalize.css#extended-details-and-known-issues
 
 * {
   box-sizing: border-box;
@@ -10,7 +13,7 @@ $grey: rgba(200,200,200,0.2);
 html {
   overflow-y: scroll; // always show the scroll bar to ensure narrower pages have same center
   height: 100%;
-  font: 100%/1.5 sans-serif;
+  font: 100%/1.5 $base-font;
   word-wrap: break-word;
   margin: 0 auto;
   padding: 1.5em;
@@ -24,6 +27,7 @@ html {
 }
 
 h1, h2, h3, h4 {
+  font-family: $base-font;
   margin: 2.5rem 0 1.5rem 0;
   line-height: 1.25;
   color: #333;
@@ -38,6 +42,7 @@ a {
 p {
   margin: 1em 0;
   line-height: 1.5;
+  font-family: 'Merriweather', serif;
   code {
     background-color: #eee;
     padding: 0.05em 0.2em;
@@ -54,9 +59,19 @@ ol, ul {
 }
 
 dl {
-  font-family: monospace, monospace;
-  dt { font-weight: bold; }
-  dd { margin: 0 0 1em 1em; }
+  // font-family: $monospace-font;
+  dt {
+    color: #333;
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+  dt::after {
+      content: ":";
+  }
+  dd {
+    margin: 0 0 1em 1em;
+    font-family: $monospace-font;
+  }
 }
 
 img {
@@ -98,7 +113,7 @@ table, .highlight > pre, pre.example {
   padding: 1em;
   overflow: auto;
   font-size: 0.85rem;
-  font-family: monospace, monospace; // https://github.com/necolas/normalize.css#extended-details-and-known-issues
+  font-family:  $monospace-font;
   border:1px dashed transparentize($highlight, 0.5);
 }
 
@@ -122,7 +137,7 @@ table, .highlight > pre, pre.example {
 figure {
   margin: 1em 0;
   figcaption {
-    font-family: monospace, monospace; // https://github.com/necolas/normalize.css#extended-details-and-known-issues
+    font-family: $monospace-font;
     font-size: 0.75em;
     text-align: center;
     color: grey;
@@ -180,7 +195,7 @@ footer {
       }
     }
     date {
-      font-family: monospace, monospace; // https://github.com/necolas/normalize.css#extended-details-and-known-issues
+      font-family: $monospace-font;
       font-size: 0.8rem;
       vertical-align: middle;
       padding-right: 2rem;
@@ -188,10 +203,7 @@ footer {
     }
   }
 }
-    date {
-      font-family: monospace, monospace; // https://github.com/necolas/normalize.css#extended-details-and-known-issues
-      font-size: 0.8rem;
-      vertical-align: middle;
-      padding-right: 2rem;
-      color: grey;
-    }
+
+h1 + p, h2 + p, h3 + p, h4 + p {
+    margin-top: .75rem;
+}

@@ -11,7 +11,7 @@ tags:
   - colonialism
 ---
 
-### Meeting Information
+## Meeting Information
 
 Podcast Episode
 :   Emotional Currency - Hidden Brain
@@ -22,7 +22,7 @@ Date
 Time
 :   5:30pm - 7:30pm PST
 
-### Podcast Sources:
+## Podcast Sources
 
 Web
 :   https://www.npr.org/2020/01/10/795246685/emotional-currency-how-money-shapes-human-relationships

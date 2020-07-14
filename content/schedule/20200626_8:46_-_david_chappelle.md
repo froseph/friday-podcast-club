@@ -10,7 +10,7 @@ tags:
   - civil rights
 ---
 
-### Meeting Information
+## Meeting Information
 
 Podcast Episode
 :   8:46 - David Chappelle
@@ -21,7 +21,7 @@ Date
 Time
 :   5:30pm - 7:30pm PST
 
-### Podcast Sources:
+## Podcast Sources
 
 Web
 :   https://www.youtube.com/watch?v=3tR6mKcBbT4
