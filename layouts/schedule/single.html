@@ -1,0 +1,15 @@
+{{ define "main" }}
+<div class="container">
+  <h1 class="title">{{ .Params.Episode }}
+    <br>
+    <a href="{{ $.Site.BaseURL }}podcast/{{ .Params.Podcast | urlize }}"><span class="subtitle">{{ .Params.Podcast }}</span>
+    </a>
+  </h1>
+  <i class="fa fa-tags"></i><ul class="tags">
+    {{ range .Params.tags }}
+    <li><a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}">{{ . }}</a> </li>
+    {{ end }}
+  </ul>
+  {{ .Content }}
+</div>
+{{ end }}
