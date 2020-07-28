@@ -9,7 +9,7 @@ podcast: "Where Should We Begin?"
 subtitle:
 tags:
   - relationships
-  - sexual orientation
+  - lgbtq
 ---
 
 ## Meeting Information
