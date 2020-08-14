@@ -34,6 +34,9 @@ Spotify
 Stitcher
 :   https://app.stitcher.com/browse/feed/553513/details/e/76301834#/
 
+Download
+:   https://www.dropbox.com/s/dj5219t7tpukkrq/20200821%20Mikki%20Kendall%20Discusses%20Her%20New%20Book%2C%20%22Hood%20Feminism_%20Notes%20From%20The%20Women%20A%20Movement%20Forgot%22.mp3?dl=0
+
 Apple Podcasts
 :   https://podcasts.apple.com/us/podcast/coffee-and-books/id1522592619?uo=4
 
