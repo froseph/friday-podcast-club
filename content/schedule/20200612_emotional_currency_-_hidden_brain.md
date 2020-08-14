@@ -35,9 +35,9 @@ Spotify
 Stitcher
 :   https://www.stitcher.com/s?eid=66538174&autoplay=1
 
-Download
-:   https://www.dropbox.com/s/ud2xc3lex5o4142/20200113_hiddenbrain_emotional_currency_mix_4_pm_jan_13_2020-aec72d06-493a-4456-813d-6cd2caccc705.mp3?dl=0
-
 Apple Podcasts
 :   https://podcasts.apple.com/us/podcast/emotional-currency/id1028908750?i=1000462406314
+
+Download
+:   https://www.dropbox.com/s/ud2xc3lex5o4142/20200113_hiddenbrain_emotional_currency_mix_4_pm_jan_13_2020-aec72d06-493a-4456-813d-6cd2caccc705.mp3?dl=0
 

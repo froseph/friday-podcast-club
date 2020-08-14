@@ -31,9 +31,9 @@ Web
 Spotify
 :   https://open.spotify.com/episode/1aHqiqUZgAeKBi0k4GQ7uP?si=MNz1rMttR7CtIhN2lD3p6w
 
-Download
-:   https://www.dropbox.com/s/cugl7cxd25cmqek/20200626%208_46%20-%20Dave%20Chappelle-3tR6mKcBbT4.mp4?dl=0
-
 Apple Podcasts
 :   https://podcasts.apple.com/us/podcast/lol-comedy-showcase-stand-up-comedy/id1493120432
+
+Download
+:   https://www.dropbox.com/s/cugl7cxd25cmqek/20200626%208_46%20-%20Dave%20Chappelle-3tR6mKcBbT4.mp4?dl=0
 
