@@ -32,7 +32,7 @@ Spotify
 :   https://open.spotify.com/show/3jVyh84aqZYEGZDhFTHvOn
 
 Stitcher
-:   https://app.stitcher.com/browse/feed/553513/details/e/76301834#/
+:   https://www.stitcher.com/s?eid=76301834&autoplay=1
 
 Apple Podcasts
 :   https://podcasts.apple.com/us/podcast/coffee-and-books/id1522592619?uo=4
