@@ -9,7 +9,7 @@
     </article>
     <ul class="posts">
     <!-- Ranges through content/posts/*.md -->
-    {{ range .Pages }}
+    {{ range sort .Pages "Title"}}
         <li>
             <a href="{{.Permalink}}">{{.Params.Episode}}</a>
         </li>

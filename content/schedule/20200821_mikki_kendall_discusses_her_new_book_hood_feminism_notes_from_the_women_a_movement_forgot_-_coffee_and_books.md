@@ -5,7 +5,7 @@ title: "Mikki Kendall Discusses Her New Book: \"Hood Feminism: Notes From The Wo
 date: 2020-08-21
 ## below are user-defined parameters (lower case keys recommended)
 episode: "Mikki Kendall Discusses Her New Book: \"Hood Feminism: Notes From The Women A Movement Forgot\""
-podcast: "Coffee and Books"
+podcasts: "Coffee and Books"
 subtitle:
 tags:
   - feminism

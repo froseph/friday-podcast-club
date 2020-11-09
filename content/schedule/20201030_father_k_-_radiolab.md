@@ -5,7 +5,7 @@ title: "Father K - Radiolab"
 date: 2020-10-30
 ## below are user-defined parameters (lower case keys recommended)
 episode: "Father K"
-podcast: "Radiolab"
+podcasts: "Radiolab"
 subtitle:
 tags:
   - politics

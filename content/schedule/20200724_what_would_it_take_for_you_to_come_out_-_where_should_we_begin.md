@@ -5,7 +5,7 @@ title: "What Would It Take For You to Come Out? - Where Should We Begin?"
 date: 2020-07-24
 ## below are user-defined parameters (lower case keys recommended)
 episode: "What Would It Take For You to Come Out?"
-podcast: "Where Should We Begin?"
+podcasts: "Where Should We Begin?"
 subtitle:
 tags:
   - relationships

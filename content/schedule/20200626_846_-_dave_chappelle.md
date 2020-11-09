@@ -5,7 +5,7 @@ title: "8:46 - Dave Chappelle"
 date: 2020-06-26
 ## below are user-defined parameters (lower case keys recommended)
 episode: "8:46"
-podcast: "Dave Chappelle"
+podcasts: "Dave Chappelle"
 subtitle:
 tags:
   - racism

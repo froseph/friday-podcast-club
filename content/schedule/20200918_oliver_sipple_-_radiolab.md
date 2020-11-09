@@ -5,7 +5,7 @@ title: "Oliver Sipple - Radiolab"
 date: 2020-09-18
 ## below are user-defined parameters (lower case keys recommended)
 episode: "Oliver Sipple"
-podcast: "Radiolab"
+podcasts: "Radiolab"
 subtitle:
 tags:
   - lgbtq

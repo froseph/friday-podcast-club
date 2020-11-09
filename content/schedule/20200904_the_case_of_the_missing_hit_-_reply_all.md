@@ -5,7 +5,7 @@ title: "The Case of the Missing Hit - Reply All"
 date: 2020-09-04
 ## below are user-defined parameters (lower case keys recommended)
 episode: "The Case of the Missing Hit"
-podcast: "Reply All"
+podcasts: "Reply All"
 subtitle:
 tags:
   - music

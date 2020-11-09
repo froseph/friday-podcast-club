@@ -5,7 +5,7 @@ title: "Coach G - Resistance"
 date: 2020-11-13
 ## below are user-defined parameters (lower case keys recommended)
 episode: "Coach G"
-podcast: "Resistance"
+podcasts: "Resistance"
 subtitle:
 tags:
   - racism

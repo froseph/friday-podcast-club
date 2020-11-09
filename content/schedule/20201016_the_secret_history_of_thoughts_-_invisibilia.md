@@ -5,7 +5,7 @@ title: "The Secret History of Thoughts - Invisibilia"
 date: 2020-10-16
 ## below are user-defined parameters (lower case keys recommended)
 episode: "The Secret History of Thoughts"
-podcast: "Invisibilia"
+podcasts: "Invisibilia"
 subtitle:
 tags:
   - science

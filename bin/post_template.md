@@ -5,7 +5,7 @@ title: "{{{episode}}} - {{{podcast}}}"
 date: {{{post_date}}}
 ## below are user-defined parameters (lower case keys recommended)
 episode: "{{{episode}}}"
-podcast: "{{{podcast}}}"
+podcasts: "{{{podcast}}}"
 subtitle:
 tags:
 {{#tags}}

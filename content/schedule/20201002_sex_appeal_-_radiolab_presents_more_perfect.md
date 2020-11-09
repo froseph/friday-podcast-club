@@ -5,7 +5,7 @@ title: "Sex Appeal - Radiolab Presents: More Perfect"
 date: 2020-10-02
 ## below are user-defined parameters (lower case keys recommended)
 episode: "Sex Appeal"
-podcast: "Radiolab Presents: More Perfect"
+podcasts: "Radiolab Presents: More Perfect"
 subtitle:
 tags:
   - civil rights

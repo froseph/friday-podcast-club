@@ -5,7 +5,7 @@ title: "Debatable - Radiolab"
 date: 2020-07-10
 ## below are user-defined parameters (lower case keys recommended)
 episode: "Debatable"
-podcast: "Radiolab"
+podcasts: "Radiolab"
 subtitle:
 tags:
   - racism

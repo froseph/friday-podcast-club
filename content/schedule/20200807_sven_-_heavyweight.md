@@ -5,7 +5,7 @@ title: "Sven - Heavyweight"
 date: 2020-08-07
 ## below are user-defined parameters (lower case keys recommended)
 episode: "Sven"
-podcast: "Heavyweight"
+podcasts: "Heavyweight"
 subtitle:
 tags:
   - justice

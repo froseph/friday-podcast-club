@@ -5,7 +5,7 @@ title: "Emotional Currency - Hidden Brain"
 date: 2020-06-12
 ## below are user-defined parameters (lower case keys recommended)
 episode: "Emotional Currency"
-podcast: "Hidden Brain"
+podcasts: "Hidden Brain"
 subtitle:
 tags:
   - relationships
