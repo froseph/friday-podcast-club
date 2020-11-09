@@ -11,5 +11,5 @@ markup:
       unsafe: true
 taxonomies:
   tag: tags
-  podcast: podcast
+  podcast: podcasts
 buildFuture: true

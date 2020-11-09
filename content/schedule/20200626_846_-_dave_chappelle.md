@@ -10,6 +10,7 @@ subtitle:
 tags:
   - racism
   - civil rights
+  - blm
 ---
 
 ## Meeting Information
