@@ -7,8 +7,9 @@ date: 2020-07-13
 subtitle:
 ---
 
-This archive can be found as a <a href="spotify:playlist:6uAdJ1BxAESfRQLLOywW8A">
-Spotify Playlist</a>
+This archive can be found as yearly Spotify playlists:
+* <a href="spotify:playlist:6uAdJ1BxAESfRQLLOywW8A">2020</a>
+* <a href="spotify:playlist:3u1QNRqiCkxyiKPddoCnuo">2021</a> 
 
 <!--
  created 2020-07-13 19:34:49.814643 -0700 PDT m=+0.061699224

@@ -7,12 +7,12 @@ date: 2020-07-13
 
 ## Follow Along
 
-We maintain two Spotify playlists for your convience.
+We maintain a few playlists for your convience.
 
 <a href="spotify:playlist:5ihHcSunSXph8GDuNn9WC9">Friday Podcast Club: Next Meeting</a> only contains the next podcast to be discussed.
 
-
-<a href="spotify:playlist:6uAdJ1BxAESfRQLLOywW8A">2020 Friday Podcast Club Archive</a> contains all podcasts discussed in 2020.
+<a href="spotify:playlist:6uAdJ1BxAESfRQLLOywW8A">2020 Friday Podcast Club Archive</a> \
+<a href="spotify:playlist:3u1QNRqiCkxyiKPddoCnuo">2021 Friday Podcast Club Archive</a>
 
 ## About
 
