@@ -1,11 +1,11 @@
 ---
 ## Important: If this is a draft, next line should NOT begin with #
 # draft: true
-title: "The Untold Story of Lyndie B. Hawkins - Invisibilia"
+title: "The Untold Story of Lyndie B. Hawkins - Hidden Brain"
 date: 2021-01-22
 ## below are user-defined parameters (lower case keys recommended)
 episode: "The Untold Story of Lyndie B. Hawkins"
-podcasts: "Invisibilia"
+podcasts: "Hidden Brain"
 subtitle:
 tags:
   - racism
@@ -15,7 +15,7 @@ tags:
 ## Meeting Information
 
 Podcast Episode
-:   The Untold Story of Lyndie B. Hawkins - Invisibilia
+:   The Untold Story of Lyndie B. Hawkins - Hidden Brain
 
 Date
 :   Friday, January 22, 2021
