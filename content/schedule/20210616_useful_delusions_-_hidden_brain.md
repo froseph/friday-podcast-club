@@ -36,5 +36,5 @@ Stitcher
 :   https://listen.stitcher.com/yvap/?c=sharelink&af_dp=stitcher://episode/82937699&af_web_dp=https://www.stitcher.com/episode/82937699&deep_link_value=stitcher://episode/82937699
 
 Apple Podcasts
-:   https://listen.stitcher.com/yvap/?c=sharelink&af_dp=stitcher://episode/82937699&af_web_dp=https://www.stitcher.com/episode/82937699&deep_link_value=stitcher://episode/82937699
+:   https://podcasts.apple.com/us/podcast/useful-delusions/id1028908750?i=1000515869497
 
