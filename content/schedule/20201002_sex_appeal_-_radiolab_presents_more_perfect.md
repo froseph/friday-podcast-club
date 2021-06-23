@@ -10,6 +10,7 @@ subtitle:
 tags:
   - civil rights
   - law
+  - history
 ---
 
 ## Meeting Information

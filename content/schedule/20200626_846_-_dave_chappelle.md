@@ -11,6 +11,7 @@ tags:
   - racism
   - civil rights
   - blm
+  - police
 ---
 
 ## Meeting Information
