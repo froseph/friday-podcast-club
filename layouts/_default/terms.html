@@ -9,11 +9,9 @@
     </article>
     <ul class="posts">
     <!-- Ranges through content/posts/*.md -->
-    {{ range sort .Pages "Title" }}
-        <li>
-            <a href="{{.Permalink}}">{{.Title}}</a>
-        </li>
-    {{ end }}
+    {{ range .Data.Terms.Alphabetical  }}
+    <li><a href="{{ .Page.Permalink  }}">{{ .Page.Title  }}</a> {{ .Count  }}</li>
+    {{ end  }}
     </ul>
 </main>
 {{ end }}
