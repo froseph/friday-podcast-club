@@ -12,6 +12,7 @@ tags:
   - infrastructure
   - urban planning
   - privilege
+  - spatial justice
 ---
 
 ## Meeting Information
