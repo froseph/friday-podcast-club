@@ -27,11 +27,14 @@ Time
 ## Podcast Sources
 
 Web
-:   https://open.spotify.com/episode/3ipZE7lslTw667pPiV7rRD?si=07917ea87d674ad9
+:   https://citationsneeded.medium.com/news-brief-the-casual-soft-eugenics-of-self-help-friendscaping-content-1abd90bdf350
 
 Spotify
-:   https://listen.stitcher.com/yvap/?c=sharelink&af_dp=stitcher://episode/84765638&af_web_dp=https://www.stitcher.com/episode/84765638&deep_link_value=stitcher://episode/84765638
+:   https://open.spotify.com/episode/3ipZE7lslTw667pPiV7rRD?si=07917ea87d674ad9
 
 Stitcher
+:   https://listen.stitcher.com/yvap/?c=sharelink&af_dp=stitcher://episode/84765638&af_web_dp=https://www.stitcher.com/episode/84765638&deep_link_value=stitcher://episode/84765638
+
+Apple Podcasts
 :   https://podcasts.apple.com/us/podcast/news-brief-the-casual-soft-eugenics-of-self/id1258545975?i=1000525762631
 
