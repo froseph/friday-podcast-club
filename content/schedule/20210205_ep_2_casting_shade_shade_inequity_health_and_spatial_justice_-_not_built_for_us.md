@@ -11,6 +11,7 @@ tags:
   - racism
   - climate change
   - spatial justice
+  - health
 ---
 
 ## Meeting Information
