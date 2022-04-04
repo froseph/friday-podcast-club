@@ -22,7 +22,7 @@ Date
 :   {{{meeting_date}}}
 
 Time
-:   5:30pm - 7:30pm PST
+:   {{{time}}}
 
 ## Podcast Sources
 
