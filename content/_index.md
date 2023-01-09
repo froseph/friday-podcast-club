@@ -12,7 +12,9 @@ We maintain a few playlists for your convience.
 <a href="spotify:playlist:5ihHcSunSXph8GDuNn9WC9">Friday Podcast Club: Next Meeting</a> only contains the next podcast to be discussed.
 
 <a href="spotify:playlist:6uAdJ1BxAESfRQLLOywW8A">2020 Friday Podcast Club Archive</a> \
-<a href="spotify:playlist:3u1QNRqiCkxyiKPddoCnuo">2021 Friday Podcast Club Archive</a>
+<a href="spotify:playlist:3u1QNRqiCkxyiKPddoCnuo">2021 Friday Podcast Club Archive</a> \
+<a href="spotify:playlist:0EwsEvSgKeTub9OMlbt57K">2022 Friday Podcast Club Archive</a> \
+<a href="spotify:playlist:3EFk8Hw1eDQbhi7XiQLClw">2023 Friday Podcast Club Archive</a>
 
 ## About
 
