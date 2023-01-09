@@ -10,6 +10,8 @@ subtitle:
 tags:
   - friendship
   - trauma
+  - memories
+  - childhood
 ---
 
 ## Meeting Information
