@@ -9,10 +9,11 @@ podcasts: "Radiolab"
 subtitle:
 tags:
   - ableism
-  -  disability
-  -  sociey
-  -  eugenics
-  -  bodily autonomy
+  - disability
+  - sociey
+  - eugenics
+  - bodily autonomy
+  - parenting
 ---
 
 ## Meeting Information

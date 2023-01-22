@@ -9,11 +9,11 @@ podcasts: "The One You Feed"
 subtitle:
 tags:
   - racism
-  -  drugs
-  -  society
-  -  health
-  -  mental health
-  -  addiction
+  - drugs
+  - society
+  - health
+  - mental health
+  - addiction
 ---
 
 ## Meeting Information

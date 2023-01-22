@@ -9,7 +9,7 @@ podcasts: "Reply All"
 subtitle:
 tags:
   - racism
-  -  corporations
+  - corporations
 ---
 
 ## Meeting Information

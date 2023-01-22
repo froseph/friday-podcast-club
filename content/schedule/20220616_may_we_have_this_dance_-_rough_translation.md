@@ -9,9 +9,9 @@ podcasts: "Rough Translation"
 subtitle:
 tags:
   - history
-  -  racism
-  -  culture
-  -  dance
+  - racism
+  - culture
+  - dance
 ---
 
 ## Meeting Information

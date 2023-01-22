@@ -9,9 +9,9 @@ podcasts: "Resistance"
 subtitle:
 tags:
   - religion
-  -  politics
-  -  society
-  -  love
+  - politics
+  - society
+  - love
 ---
 
 ## Meeting Information

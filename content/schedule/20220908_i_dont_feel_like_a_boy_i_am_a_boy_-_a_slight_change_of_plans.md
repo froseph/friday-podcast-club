@@ -9,9 +9,9 @@ podcasts: "A Slight Change of Plans"
 subtitle:
 tags:
   - lgbtq
-  -  transgender
-  -  parenting
-  -  gender
+  - transgender
+  - parenting
+  - gender
 ---
 
 ## Meeting Information

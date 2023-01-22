@@ -9,8 +9,8 @@ podcasts: "How's Work?"
 subtitle:
 tags:
   - racism
-  -  sexism
-  -  relationships
+  - sexism
+  - relationships
 ---
 
 ## Meeting Information

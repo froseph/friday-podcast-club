@@ -9,8 +9,8 @@ podcasts: "Annex Sociology Podcast"
 subtitle:
 tags:
   - society
-  -  justice
-  -  internet
+  - justice
+  - internet
 ---
 
 ## Meeting Information

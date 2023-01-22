@@ -9,8 +9,8 @@ podcasts: "Advisory Opinions"
 subtitle:
 tags:
   - law
-  -  society
-  -  civil rights
+  - society
+  - civil rights
 ---
 
 ## Meeting Information

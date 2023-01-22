@@ -9,8 +9,8 @@ podcasts: "Radiolab"
 subtitle:
 tags:
   - disability
-  -  society
-  -  science
+  - society
+  - science
 ---
 
 ## Meeting Information

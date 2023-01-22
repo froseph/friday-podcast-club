@@ -9,8 +9,8 @@ podcasts: "How's Work?"
 subtitle:
 tags:
   - relationships
-  -  work
-  -  identity
+  - work
+  - identity
 ---
 
 ## Meeting Information

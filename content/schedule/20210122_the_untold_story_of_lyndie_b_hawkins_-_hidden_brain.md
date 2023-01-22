@@ -9,7 +9,7 @@ podcasts: "Hidden Brain"
 subtitle:
 tags:
   - racism
-  -  society
+  - society
 ---
 
 ## Meeting Information

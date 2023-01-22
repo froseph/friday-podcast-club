@@ -9,8 +9,8 @@ podcasts: "Decoder Ring"
 subtitle:
 tags:
   - gender
-  -  culture
-  -  history
+  - culture
+  - history
 ---
 
 ## Meeting Information

@@ -9,7 +9,7 @@ podcasts: "Radiolab"
 subtitle:
 tags:
   - politics
-  -  racism
+  - racism
 ---
 
 ## Meeting Information
