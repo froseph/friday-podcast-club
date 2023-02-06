@@ -9,7 +9,7 @@ podcasts: "Madness Radio"
 subtitle:
 tags:
   - mental health
-  - psycology
+  - psychology
   - society
   - history
   - racism
