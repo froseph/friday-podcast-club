@@ -30,3 +30,6 @@ Time
 Web
 :   https://gimletmedia.com/shows/heavyweight/wbhx37x
 
+Spotify
+:   https://open.spotify.com/episode/45UKMK1EZKeT2l0EwRbeYc?si=834c718bef2a4e2f
+
