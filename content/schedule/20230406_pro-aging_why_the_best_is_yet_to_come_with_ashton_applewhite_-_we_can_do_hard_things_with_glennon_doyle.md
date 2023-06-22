@@ -11,7 +11,7 @@ tags:
   - ageism
   - society
   - equity
-  - ablism
+  - ableism
   - disability
 ---
 
