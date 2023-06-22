@@ -8,7 +8,7 @@ episode: "Pro-Aging: Why the Best is Yet to Come with Ashton Applewhite"
 podcasts: "We Can Do Hard Things with Glennon Doyle"
 subtitle:
 tags:
-  - agism
+  - ageism
   - society
   - equity
   - ablism
