@@ -10,7 +10,7 @@ subtitle:
 tags:
   - ableism
   - disability
-  - sociey
+  - society
   - eugenics
   - bodily autonomy
   - parenting
