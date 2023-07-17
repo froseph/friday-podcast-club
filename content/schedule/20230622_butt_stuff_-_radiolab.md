@@ -2,7 +2,7 @@
 ## Important: If this is a draft, next line should NOT begin with #
 # draft: true
 title: "Butt Stuff - Radiolab"
-date: 2023-07-22
+date: 2023-06-20
 ## below are user-defined parameters (lower case keys recommended)
 episode: "Butt Stuff"
 podcasts: "Radiolab"
@@ -20,7 +20,7 @@ Podcast Episode
 :   Butt Stuff - Radiolab
 
 Date
-:   Saturday, July 22, 2023
+:   Thursday, June 20, 2023
 
 Time
 :   6:00pm - 8:00pm PST
