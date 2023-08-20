@@ -2,7 +2,7 @@
 ## Important: If this is a draft, next line should NOT begin with #
 # draft: true
 title: "The Wellness to QAnon Pipeline - Maintenance Phase"
-date: 2023-08-17
+date: 2023-08-24
 ## below are user-defined parameters (lower case keys recommended)
 episode: "The Wellness to QAnon Pipeline"
 podcasts: "Maintenance Phase"
@@ -20,7 +20,7 @@ Podcast Episode
 :   The Wellness to QAnon Pipeline - Maintenance Phase
 
 Date
-:   Thursday, August 17, 2023
+:   Thursday, August 24, 2023
 
 Time
 :   6:00pm - 8:00pm PST
