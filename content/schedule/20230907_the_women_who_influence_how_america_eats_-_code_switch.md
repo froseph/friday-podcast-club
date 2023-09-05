@@ -1,10 +1,10 @@
 ---
 ## Important: If this is a draft, next line should NOT begin with #
 # draft: true
-title: "The Women Who Influnce How America Eats - Code Switch"
+title: "The Women Who Influence How America Eats - Code Switch"
 date: 2023-09-07
 ## below are user-defined parameters (lower case keys recommended)
-episode: "The Women Who Influnce How America Eats"
+episode: "The Women Who Influence How America Eats"
 podcasts: "Code Switch"
 subtitle:
 tags:
@@ -17,7 +17,7 @@ tags:
 ## Meeting Information
 
 Podcast Episode
-:   The Women Who Influnce How America Eats - Code Switch
+:   The Women Who Influence How America Eats - Code Switch
 
 Date
 :   Thursday, September 7, 2023
