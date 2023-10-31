@@ -13,6 +13,7 @@ tags:
   - cycling
   - ableism
   - privilege
+  - racism
 ---
 
 ## Meeting Information
