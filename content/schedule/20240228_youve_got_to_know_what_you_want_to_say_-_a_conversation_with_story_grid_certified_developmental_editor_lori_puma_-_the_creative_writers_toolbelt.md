@@ -25,8 +25,11 @@ Time
 ## Podcast Sources
 
 Web
+:   https://the-creative-writers-toolbelt.castos.com/episodes/episode-114-youve-got-to-know-what-you-want-to-say-a-conversation-with-story-grid-certified-developmental-editor-lori-puma
+
+Spotify
 :   https://open.spotify.com/episode/4gdWyZDNnumgvR5qK7zUBr?si=1d0084b23636429a
 
-Stitcher
+Apple Podcasts
 :   https://podcasts.apple.com/us/podcast/episode-114-youve-got-to-know-what-you-want-to-say/id1533528772?i=1000495152797
 
