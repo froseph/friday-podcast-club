@@ -22,6 +22,13 @@
     <link href="https://fonts.googleapis.com/css2?family=B612+Mono&family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 <!--    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> -->
 <!--    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" rel="stylesheet"> -->
+    <script>
+      (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+          .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+          n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+      (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+      ml('account', '718290');
+    </script>}})
 
 
     {{ $styles := resources.Get "style.scss" | toCSS  }}
@@ -35,7 +42,7 @@
         <a href="/schedule/">Archive</a>
         <a href="/podcasts/">Shows</a>
         <a href="/tags/">Topics</a>
-        <a href="https://tinyletter.com/friday-podcast-club">Signup</a>
+				<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'T9u2TR', true)">Sign up</a>
       </nav>
     </header>
     {{ block "main" . }}{{ end }}
